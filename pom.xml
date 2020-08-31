@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.logisim</groupId>
     <artifactId>zookeeper-maven-plugin</artifactId>
-    <version>1.00.00</version>
+    <version>1.00.01-SNAPSHOT</version>
 
     <packaging>maven-plugin</packaging>
     <name>ZooKeeper Maven plugin</name>
@@ -18,7 +18,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/logisim/zookeeper-maven-plugin.git</developerConnection>
-        <tag>v1.00.00</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
