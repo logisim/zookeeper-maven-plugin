@@ -13,7 +13,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.plugin-plugin.version>3.6.0</maven.plugin-plugin.version>
-        <maven.version>3.6.3</maven.version>
+        <maven.version>3.8.1</maven.version>
     </properties>
 
     <scm>
